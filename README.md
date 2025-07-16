@@ -32,13 +32,19 @@ For doctor role, user can choose the following :
 6. Exit
 
 For admin role, an additional menu will be shown, which is 4. Hapus data pasien (Delete patients data)
+
 A) inputing the number 1 will open the patients data table, where user can see the ID, Name, Diagnosis, and the facilities used by the patient.
+
 B) Inputing the number 2 will add a new patient data. User will be asked to input the following :
 - ID
 - Name
 - Diagnosis
 - Facilities Used
+
 C) inputing the number 3 will update patient data. User will be asked to input the ID of patient. if succesful, user will be asked which data that will be updated. The data that can be updated is diagnosis and facilities used.
+
 D) If user signed in as admin, user can input number 4 to delete a data. User will be requested the ID of patient that will be deleted. if the ID is available on the data list, the patients data with the ID specified will be removed.
+
 E) inputing the number 5 will log the user off, and return to login page
+
 F)inputing the number 6 will shut down the program.
