@@ -11,17 +11,13 @@ C. Update
 D. Delete
 
 with the extra features include a role based login system.
-A. Create
-The create feature is for adding patients data to list of datas. User will be asked to input the id, name, diagnosis and the facilities used by the patient. Additional feature of create include a notification system if similiar id is used.
+A. Create - The create feature is for adding patients data to list of datas. User will be asked to input the id, name, diagnosis and the facilities used by the patient. Additional feature of create include a notification system if similiar id is used.
 
-B. Read
-The read feature is for overseeing the data list for the medical staff to review it by revealing the full patient data list. The data shown includes ID, Name, Diagnosis and Medical Facilities used
+B. Read - The read feature is for overseeing the data list for the medical staff to review it by revealing the full patient data list. The data shown includes ID, Name, Diagnosis and Medical Facilities used
 
-C. Update
-The update feature is used for updating some parts of the data. The data that can be manipulated by the feature includes diagnosis and facilities used.
+C. Update - The update feature is used for updating some parts of the data. The data that can be manipulated by the feature includes diagnosis and facilities used.
 
-D. Delete
-The delete feature is used for removing patients data that is not in hospital care anyomre. The feature works by inputing the patients id, which will delete the whole data related to the id.
+D. Delete - The delete feature is used for removing patients data that is not in hospital care anyomre. The feature works by inputing the patients id, which will delete the whole data related to the id.
 
 ## Instruction on How to Use
 if not installed already, please install the tabulate feature first. the installation can be done using the terminal in visual studio code and then input the following : - pip install tabulate
